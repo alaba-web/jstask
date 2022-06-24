@@ -23,4 +23,5 @@ else {
 }
 
 // The result
-console.log(`${number1} ${calculator} ${number2} = ${result}`);
+alert(`${number1} ${calculator} ${number2} = ${result}`);
+alert('Thank you for using the calculator');
